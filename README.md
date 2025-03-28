@@ -16,7 +16,7 @@ Examples of how these courses could look:
   - [Python for Psychologists](https://peerherholz.github.io/Python_for_Psychologists_Winter2021)
   - [Course on Empirical Research in Neurocognitive Psychology](https://peerherholz.github.io/EXPRA_Winter2021)
 
-
+ 
 
 Credit goes to the original G0RELLA template lectures.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279400.svg)](https://doi.org/10.5281/zenodo.4279400)
