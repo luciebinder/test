@@ -2,7 +2,7 @@
 
 
 ## "What's in this repository?"
-
+ 
 This is a template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DigiTeLL (Goethe-University Frankfurt).
 
 Find more on how to utilizie this resource in the online course [Creating interactive content with Jupyter Books](https://diler-digitell.github.io/Jupyter-Book).
